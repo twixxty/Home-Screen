@@ -755,6 +755,12 @@ body input, body h1, body h3, body a, body span {
 }
 @media (max-width: 400px) {
   #app #app-menu #app-menu-content-wrapper #app-menu-content #tools-section .menu-section-content {
+    body {
+  margin: 0;
+  padding: 0;
+  overflow-x: hidden;
+}
+
     flex-wrap: wrap;
   }
   #app #app-menu #app-menu-content-wrapper #app-menu-content #tools-section .menu-section-content .tool-card {
