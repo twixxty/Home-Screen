@@ -401,7 +401,7 @@ const Movies = () => {
                 desc: "Do tasks and figure out who is the sussy bad guy.",
                 id: 3,
                 icon: "fa-solid fa-coffee-bean",
-                image: "https://lh3.googleusercontent.com/proxy/hOW9X4vLOVPFsSXY9L6BK0C47SHO3nvVBP5PX1H7DBmlPLiWJk1-IPGqbzwZPx5a-nJpb13Vg_VocHZobND-fTwYDDTNBYzbGQQm0AEQah73zfBTVk7P5Mw_1ODTbDT3lJcqL-qufFqQ7sKOshA706SivfSFOw",
+                image: "https://i.pinimg.com/564x/b3/e7/02/b3e70204865e071d64ad90f051ab4709.jpg",
                 title: "Sussy Beans"
             }, {
                 desc: "A courageous boy embarks on a risky adventure to reunite with his long-lost sister.",
