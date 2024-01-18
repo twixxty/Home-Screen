@@ -447,7 +447,7 @@ const Menu = () => {
                 React.createElement("a", { id: "youtube-link", className: "clear-button", href: "https://www.youtube.com/", target: "_blank" },
                     React.createElement("i", { className: "fa-brands fa-youtube" }),
                     React.createElement("span", null, "YouTube")),
-                React.createElement("a", { id: "youtube-link", className: "clear-button", href: "https://www.google.com/", target: "_blank" },
+                React.createElement("a", { id: "youtube-link", className: "clear-button", href: "https://www.google-redesign.netlify.app/", target: "_blank" },
                     React.createElement("i", { className: "fa-brands fa-google" }),
                     React.createElement("span", null, "Google")),
                 React.createElement("a", { id: "youtube-link", className: "clear-button", href: "https://discord.com/channels/@me", target: "_blank" },
