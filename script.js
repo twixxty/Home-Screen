@@ -406,7 +406,7 @@ const Movies = () => {
             }, {
                 desc: "A courageous boy embarks on a risky adventure to reunite with his long-lost sister.",
                 id: 4,
-                icon: "fa-solid fa-starship-freighter",
+                icon: "fa-solid fa-flashlight",
                 image: "https://play-lh.googleusercontent.com/EgaZGAiGZ9fXz3BHY00j9-J32hLCRZ17tgG_LiJ-PPB2Kt160VOc_MT5wmWqma-y5GY=w526-h296-rw",
                 title: "Need Flashlight"
             }].map((movie) => {
